@@ -1,0 +1,6 @@
+pyproject.toml
+order_microservice.egg-info/PKG-INFO
+order_microservice.egg-info/SOURCES.txt
+order_microservice.egg-info/dependency_links.txt
+order_microservice.egg-info/requires.txt
+order_microservice.egg-info/top_level.txt
