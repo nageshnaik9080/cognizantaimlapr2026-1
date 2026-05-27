@@ -19,7 +19,6 @@ Requires-Dist: sqlalchemy>=1.4.0
 Requires-Dist: pydantic>=2.0.0
 Requires-Dist: mysql-connector-python>=8.0.0
 Requires-Dist: pymysql>=1.0.0
-Requires-Dist: requests>=2.0.0
 Requires-Dist: python-consul2
 Provides-Extra: dev
 Requires-Dist: pytest>=8.0.0; extra == "dev"
